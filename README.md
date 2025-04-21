@@ -1,5 +1,5 @@
 <h1>Hello👋, I'm Génesis</h1>
-<h3>💻Full Stack Web Developer</h3>
+<h3>💻I am a Web Developer</h3>
 
 <hr>
 
